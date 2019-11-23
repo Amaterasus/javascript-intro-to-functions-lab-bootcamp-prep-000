@@ -1,4 +1,4 @@
 function shout(string)
 {
-  return string.upper
+  return toUpperCase(string)
 }
